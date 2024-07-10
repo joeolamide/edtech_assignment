@@ -7,6 +7,8 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 
+
+
 Add the package to your pubspec.yaml file:
 http: ^1.2.1
 cached_network_image: ^3.3.1
@@ -33,7 +35,7 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
       ),
       home: ProductListScreen(),
-    );![4](https://github.com/joeolamide/edtech_assignment/assets/65108926/4fa730f5-da57-4b4c-b079-c26ebe75a1a4)
+    );
 
   }
 }
@@ -41,6 +43,7 @@ class MyApp extends StatelessWidget {
 
 
 here is screenshot:
+
 ![2](https://github.com/joeolamide/edtech_assignment/assets/65108926/185eb319-6753-4633-8937-bce3959ca378)
 
 ![1](https://github.com/joeolamide/edtech_assignment/assets/65108926/a9492918-fd19-4ef9-9833-1eb12093ac21)
